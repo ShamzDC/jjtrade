@@ -1,0 +1,605 @@
+F:\NAGARAJ\MyFettle\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\NAGARAJ\MyFettle\Client\bin\Client.dll
+F:\NAGARAJ\MyFettle\Client\bin\Client.pdb
+F:\NAGARAJ\MyFettle\Client\bin\BAL.dll
+F:\NAGARAJ\MyFettle\Client\bin\CDAL.dll
+F:\NAGARAJ\MyFettle\Client\bin\DAL.dll
+F:\NAGARAJ\MyFettle\Client\bin\DB_Utility.dll
+F:\NAGARAJ\MyFettle\Client\bin\BAL.pdb
+F:\NAGARAJ\MyFettle\Client\bin\CDAL.pdb
+F:\NAGARAJ\MyFettle\Client\bin\DAL.pdb
+F:\NAGARAJ\MyFettle\Client\bin\DB_Utility.pdb
+F:\NAGARAJ\MyFettle\Client\obj\Debug\Client.dll
+F:\NAGARAJ\MyFettle\Client\obj\Debug\Client.pdb
+F:\NAGARAJ\MyFettle\Client\obj\Debug\RdlCompile.cache
+F:\NAGARAJ\MyFettle\Client\obj\Debug\RdlCompile.compiled
+F:\NAGARAJ\MyFettle\Client\bin\AjaxControlToolkit.dll
+F:\NAGARAJ\MyFettle\Client\bin\itextsharp.dll
+F:\NAGARAJ\MyFettle\Client\bin\Razorpay.dll
+F:\NAGARAJ\MyFettle\Client\bin\Newtonsoft.Json.dll
+F:\NAGARAJ\MyFettle\Client\bin\Newtonsoft.Json.xml
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\bin\Client.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\bin\Client.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\bin\AjaxControlToolkit.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\bin\BAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\bin\CDAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\bin\DAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\bin\DB_Utility.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\bin\BAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\bin\CDAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\bin\DAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\bin\DB_Utility.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\obj\Debug\RdlCompile.cache
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\obj\Debug\RdlCompile.compiled
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\obj\Debug\Client.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 1\Client\obj\Debug\Client.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\bin\Client.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\bin\Client.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\bin\AjaxControlToolkit.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\bin\BAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\bin\CDAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\bin\DAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\bin\DB_Utility.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\bin\BAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\bin\CDAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\bin\DAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\bin\DB_Utility.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\obj\Debug\RdlCompile.cache
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\obj\Debug\RdlCompile.compiled
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\obj\Debug\Client.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 2\Client\obj\Debug\Client.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\bin\Client.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\bin\Client.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\bin\AjaxControlToolkit.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\bin\BAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\bin\CDAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\bin\DAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\bin\DB_Utility.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\bin\BAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\bin\CDAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\bin\DAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\bin\DB_Utility.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\obj\Debug\RdlCompile.cache
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\obj\Debug\RdlCompile.compiled
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\obj\Debug\Client.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 3\Client\obj\Debug\Client.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\bin\Client.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\bin\Client.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\bin\AjaxControlToolkit.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\bin\BAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\bin\CDAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\bin\DAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\bin\DB_Utility.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\bin\BAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\bin\CDAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\bin\DAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\bin\DB_Utility.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\obj\Debug\RdlCompile.cache
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\obj\Debug\RdlCompile.compiled
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\obj\Debug\Client.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 4\Client\obj\Debug\Client.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\bin\Client.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\bin\Client.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\bin\AjaxControlToolkit.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\bin\BAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\bin\CDAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\bin\DAL.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\bin\DB_Utility.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\bin\BAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\bin\CDAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\bin\DAL.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\bin\DB_Utility.pdb
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\obj\Debug\RdlCompile.cache
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\obj\Debug\RdlCompile.compiled
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\obj\Debug\Client.dll
+F:\NAGARAJ\MyFettle\MYFETTLE - SET 5\Client\obj\Debug\Client.pdb
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\bin\Client.dll
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\bin\Client.pdb
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\bin\AjaxControlToolkit.dll
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\bin\BAL.dll
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\bin\CDAL.dll
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\bin\DAL.dll
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\bin\DB_Utility.dll
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\bin\BAL.pdb
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\bin\CDAL.pdb
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\bin\DAL.pdb
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\bin\DB_Utility.pdb
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\obj\Debug\RdlCompile.cache
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\obj\Debug\RdlCompile.compiled
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\obj\Debug\Client.dll
+D:\WORK FILE 2021\MYFETTLE - SET 5\Client\obj\Debug\Client.pdb
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\bin\Client.dll
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\bin\Client.pdb
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\bin\AjaxControlToolkit.dll
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\bin\BAL.dll
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\bin\CDAL.dll
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\bin\DAL.dll
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\bin\DB_Utility.dll
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\bin\BAL.pdb
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\bin\CDAL.pdb
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\bin\DAL.pdb
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\bin\DB_Utility.pdb
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\obj\Debug\RdlCompile.cache
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\obj\Debug\RdlCompile.compiled
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\obj\Debug\Client.dll
+D:\WORK FILE 2021\MYFETTLE\MYFETTLE - SET 6\Client\obj\Debug\Client.pdb
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\RdlCompile.cache
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\RdlCompile.compiled
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\Client.dll
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\Client.dll
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\Client.pdb
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\AjaxControlToolkit.dll
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\BAL.dll
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\CDAL.dll
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DAL.dll
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DB_Utility.dll
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\BAL.pdb
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\CDAL.pdb
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DAL.pdb
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DB_Utility.pdb
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\Client.pdb
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\Client.dll
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\Client.pdb
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\AjaxControlToolkit.dll
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\BAL.dll
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\CDAL.dll
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DAL.dll
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DB_Utility.dll
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\BAL.pdb
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\CDAL.pdb
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DAL.pdb
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DB_Utility.pdb
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\RdlCompile.cache
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\RdlCompile.compiled
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\Client.dll
+C:\Users\dreams02\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\Client.pdb
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\Client.dll
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\Client.pdb
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\AjaxControlToolkit.dll
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\BAL.dll
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\CDAL.dll
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DAL.dll
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DB_Utility.dll
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\BAL.pdb
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\CDAL.pdb
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DAL.pdb
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DB_Utility.pdb
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\RdlCompile.cache
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\RdlCompile.compiled
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\Client.dll
+F:\NAGARAJ\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\Client.pdb
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\Client.dll
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\Client.pdb
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\AjaxControlToolkit.dll
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\BAL.dll
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\CDAL.dll
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DAL.dll
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DB_Utility.dll
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\BAL.pdb
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\CDAL.pdb
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DAL.pdb
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\bin\DB_Utility.pdb
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\RdlCompile.cache
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\RdlCompile.compiled
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\Client.dll
+C:\Users\NAGARAJ\Desktop\SpicyMix SET 4 MYFETTLE - SET 6\Client\obj\Debug\Client.pdb
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\Client.dll
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\Client.pdb
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\AjaxControlToolkit.dll
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\BAL.dll
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\CDAL.dll
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\DAL.dll
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\DB_Utility.dll
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\BAL.pdb
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\CDAL.pdb
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\DAL.pdb
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\DB_Utility.pdb
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\obj\Debug\RdlCompile.cache
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\obj\Debug\RdlCompile.compiled
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\obj\Debug\Client.dll
+D:\WORK FILE 2021\SPICY MIX\SpicyMix SET 4 MYFETTLE - SET 7\Client\obj\Debug\Client.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\Client.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\Client.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\AjaxControlToolkit.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\BAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\CDAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\DAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\DB_Utility.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\BAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\CDAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\DAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\bin\DB_Utility.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\obj\Debug\RdlCompile.cache
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\obj\Debug\RdlCompile.compiled
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\obj\Debug\Client.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix SET 4 MYFETTLE - SET 7\Client\obj\Debug\Client.pdb
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\Client.dll
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\Client.pdb
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\AjaxControlToolkit.dll
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\BAL.dll
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\CDAL.dll
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\DAL.dll
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\DB_Utility.dll
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\BAL.pdb
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\CDAL.pdb
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\DAL.pdb
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\DB_Utility.pdb
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\obj\Debug\RdlCompile.cache
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\obj\Debug\RdlCompile.compiled
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\obj\Debug\Client.dll
+D:\SPICY MIX 2021\FINAL FROM JAYANTHI MAAM\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\obj\Debug\Client.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\Client.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\Client.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\AjaxControlToolkit.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\BAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\CDAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\DAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\DB_Utility.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\BAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\CDAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\DAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\bin\DB_Utility.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\obj\Debug\RdlCompile.cache
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\obj\Debug\RdlCompile.compiled
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\obj\Debug\Client.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\28-jun-21\SpicyMix- SET 7-25-06-2021-From Jeyanthi Maam\Client\obj\Debug\Client.pdb
+D:\SPICY MIX 2021\04-07-2021\Client\bin\Client.dll
+D:\SPICY MIX 2021\04-07-2021\Client\bin\Client.pdb
+D:\SPICY MIX 2021\04-07-2021\Client\bin\AjaxControlToolkit.dll
+D:\SPICY MIX 2021\04-07-2021\Client\bin\BAL.dll
+D:\SPICY MIX 2021\04-07-2021\Client\bin\CDAL.dll
+D:\SPICY MIX 2021\04-07-2021\Client\bin\DAL.dll
+D:\SPICY MIX 2021\04-07-2021\Client\bin\DB_Utility.dll
+D:\SPICY MIX 2021\04-07-2021\Client\bin\BAL.pdb
+D:\SPICY MIX 2021\04-07-2021\Client\bin\CDAL.pdb
+D:\SPICY MIX 2021\04-07-2021\Client\bin\DAL.pdb
+D:\SPICY MIX 2021\04-07-2021\Client\bin\DB_Utility.pdb
+D:\SPICY MIX 2021\04-07-2021\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\SPICY MIX 2021\04-07-2021\Client\obj\Debug\RdlCompile.cache
+D:\SPICY MIX 2021\04-07-2021\Client\obj\Debug\RdlCompile.compiled
+D:\SPICY MIX 2021\04-07-2021\Client\obj\Debug\Client.dll
+D:\SPICY MIX 2021\04-07-2021\Client\obj\Debug\Client.pdb
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\bin\Client.dll
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\bin\Client.pdb
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\bin\AjaxControlToolkit.dll
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\bin\BAL.dll
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\bin\CDAL.dll
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\bin\DAL.dll
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\bin\DB_Utility.dll
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\bin\BAL.pdb
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\bin\CDAL.pdb
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\bin\DAL.pdb
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\bin\DB_Utility.pdb
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\obj\Debug\RdlCompile.cache
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\obj\Debug\RdlCompile.compiled
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\obj\Debug\Client.dll
+D:\SPICY MIX 2021\FINAL\04-07-2021\Client\obj\Debug\Client.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\bin\Client.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\bin\Client.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\bin\AjaxControlToolkit.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\bin\BAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\bin\CDAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\bin\DAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\bin\DB_Utility.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\bin\BAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\bin\CDAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\bin\DAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\bin\DB_Utility.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\obj\Debug\RdlCompile.cache
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\obj\Debug\RdlCompile.compiled
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\obj\Debug\Client.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\04-07-2021\04-07-2021\Client\obj\Debug\Client.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\obj\Debug\RdlCompile.cache
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\obj\Debug\RdlCompile.compiled
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\obj\Debug\Client.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\bin\Client.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\bin\Client.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\bin\AjaxControlToolkit.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\bin\BAL.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\bin\CDAL.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\bin\DAL.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\bin\DB_Utility.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\bin\BAL.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\bin\CDAL.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\bin\DAL.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\bin\DB_Utility.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 8\04-07-2021\Client\obj\Debug\Client.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\bin\Client.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\bin\Client.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\bin\AjaxControlToolkit.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\bin\BAL.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\bin\CDAL.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\bin\DAL.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\bin\DB_Utility.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\bin\BAL.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\bin\CDAL.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\bin\DAL.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\bin\DB_Utility.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\obj\Debug\RdlCompile.cache
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\obj\Debug\RdlCompile.compiled
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\obj\Debug\Client.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 9  13-7-2021 from nagaraj\04-07-2021\Client\obj\Debug\Client.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\obj\Debug\RdlCompile.cache
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\obj\Debug\RdlCompile.compiled
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\obj\Debug\Client.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\bin\Client.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\bin\Client.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\bin\AjaxControlToolkit.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\bin\BAL.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\bin\CDAL.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\bin\DAL.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\bin\DB_Utility.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\bin\BAL.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\bin\CDAL.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\bin\DAL.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\bin\DB_Utility.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 10  13-7-2021 from nagaraj\04-07-2021\Client\obj\Debug\Client.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\Client.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\Client.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\AjaxControlToolkit.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\BAL.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\CDAL.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\DAL.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\DB_Utility.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\BAL.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\CDAL.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\DAL.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\DB_Utility.pdb
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\obj\Debug\RdlCompile.cache
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\obj\Debug\RdlCompile.compiled
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\obj\Debug\Client.dll
+D:\SPICY MIX 2021\FROM JAYANTHI MAAM\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\obj\Debug\Client.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\Client.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\Client.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\AjaxControlToolkit.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\BAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\CDAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\DAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\DB_Utility.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\BAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\CDAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\DAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\bin\DB_Utility.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\obj\Debug\RdlCompile.cache
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\obj\Debug\RdlCompile.compiled
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\obj\Debug\Client.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\SpicyMix- SET 12 19-7-2021 nagaraj\04-07-2021\Client\obj\Debug\Client.pdb
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\bin\Client.dll
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\bin\Client.pdb
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\bin\AjaxControlToolkit.dll
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\bin\BAL.dll
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\bin\CDAL.dll
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\bin\DAL.dll
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\bin\DB_Utility.dll
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\bin\BAL.pdb
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\bin\CDAL.pdb
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\bin\DAL.pdb
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\bin\DB_Utility.pdb
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\obj\Debug\RdlCompile.cache
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\obj\Debug\RdlCompile.compiled
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\obj\Debug\Client.dll
+D:\SPICY MIX 2021\FINAL\24-Jul-21 Final Backup\04-07-2021\Client\obj\Debug\Client.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\bin\Client.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\bin\Client.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\bin\AjaxControlToolkit.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\bin\BAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\bin\CDAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\bin\DAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\bin\DB_Utility.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\bin\BAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\bin\CDAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\bin\DAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\bin\DB_Utility.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\obj\Debug\RdlCompile.cache
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\obj\Debug\RdlCompile.compiled
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\obj\Debug\Client.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\24-Jul-21 Final Backup\24-Jul-21 Final Backup\7-Aug-21 Back Up\Client\obj\Debug\Client.pdb
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\bin\Client.dll
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\bin\Client.pdb
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\bin\AjaxControlToolkit.dll
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\bin\BAL.dll
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\bin\CDAL.dll
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\bin\DAL.dll
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\bin\DB_Utility.dll
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\bin\BAL.pdb
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\bin\CDAL.pdb
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\bin\DAL.pdb
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\bin\DB_Utility.pdb
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\obj\Debug\RdlCompile.cache
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\obj\Debug\RdlCompile.compiled
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\obj\Debug\Client.dll
+D:\SPICY MIX 2021\FINAL\7-Aug-21 Back Up\Client\obj\Debug\Client.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\bin\Client.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\bin\Client.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\bin\AjaxControlToolkit.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\bin\BAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\bin\CDAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\bin\DAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\bin\DB_Utility.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\bin\BAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\bin\CDAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\bin\DAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\bin\DB_Utility.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\obj\Debug\RdlCompile.cache
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\obj\Debug\RdlCompile.compiled
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\obj\Debug\Client.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\09-09-2021-SPICYMIX-UI-CORRECTED-FINAL\7-Aug-21 Back Up\Client\obj\Debug\Client.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\bin\Client.dll.config
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\bin\Client.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\bin\Client.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\bin\AjaxControlToolkit.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\bin\BAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\bin\CDAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\bin\DAL.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\bin\DB_Utility.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\bin\BAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\bin\CDAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\bin\DAL.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\bin\DB_Utility.pdb
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.CopyComplete
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\obj\Debug\Client.dll
+E:\SpicyMix SET 4 MYFETTLE - SET 7\20-Jun-22- Forex\Client\obj\Debug\Client.pdb
+E:\Vinay Sir\20-Jun-22- Forex\Client\bin\Client.dll.config
+E:\Vinay Sir\20-Jun-22- Forex\Client\bin\Client.dll
+E:\Vinay Sir\20-Jun-22- Forex\Client\bin\Client.pdb
+E:\Vinay Sir\20-Jun-22- Forex\Client\bin\AjaxControlToolkit.dll
+E:\Vinay Sir\20-Jun-22- Forex\Client\bin\BAL.dll
+E:\Vinay Sir\20-Jun-22- Forex\Client\bin\CDAL.dll
+E:\Vinay Sir\20-Jun-22- Forex\Client\bin\DAL.dll
+E:\Vinay Sir\20-Jun-22- Forex\Client\bin\DB_Utility.dll
+E:\Vinay Sir\20-Jun-22- Forex\Client\bin\BAL.pdb
+E:\Vinay Sir\20-Jun-22- Forex\Client\bin\CDAL.pdb
+E:\Vinay Sir\20-Jun-22- Forex\Client\bin\DAL.pdb
+E:\Vinay Sir\20-Jun-22- Forex\Client\bin\DB_Utility.pdb
+E:\Vinay Sir\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Vinay Sir\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Vinay Sir\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.CopyComplete
+E:\Vinay Sir\20-Jun-22- Forex\Client\obj\Debug\Client.dll
+E:\Vinay Sir\20-Jun-22- Forex\Client\obj\Debug\Client.pdb
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\bin\Client.dll.config
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\bin\Client.dll
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\bin\Client.pdb
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\bin\AjaxControlToolkit.dll
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\bin\BAL.dll
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\bin\CDAL.dll
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\bin\DAL.dll
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\bin\DB_Utility.dll
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\bin\BAL.pdb
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\bin\CDAL.pdb
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\bin\DAL.pdb
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\bin\DB_Utility.pdb
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.CopyComplete
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\obj\Debug\Client.dll
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 24-sep-22\20-Jun-22- Forex\Client\obj\Debug\Client.pdb
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\bin\Client.dll.config
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\bin\Client.dll
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\bin\Client.pdb
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\bin\AjaxControlToolkit.dll
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\bin\BAL.dll
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\bin\CDAL.dll
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\bin\DAL.dll
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\bin\DB_Utility.dll
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\bin\BAL.pdb
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\bin\CDAL.pdb
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\bin\DAL.pdb
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\bin\DB_Utility.pdb
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.CopyComplete
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\obj\Debug\Client.dll
+E:\Vinay Sir\20-Jun-22- Forex Backup Till 12-Dec-22\20-Jun-22- Forex\Client\obj\Debug\Client.pdb
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\bin\Client.dll.config
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\bin\Client.dll
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\bin\Client.pdb
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\bin\AjaxControlToolkit.dll
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\bin\BAL.dll
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\bin\CDAL.dll
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\bin\DAL.dll
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\bin\DB_Utility.dll
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\bin\BAL.pdb
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\bin\CDAL.pdb
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\bin\DAL.pdb
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\bin\DB_Utility.pdb
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\obj\Debug\Client.csproj.CopyComplete
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\obj\Debug\Client.dll
+F:\BACKUP\FOREX 2022\BACKUP-DEC-2022\Forex Backup Till 14-Dec-22\Forex Backup Till 14-Dec-22\20-Jun-22- Forex\Client\obj\Debug\Client.pdb
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\bin\Client.dll.config
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\bin\Client.dll
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\bin\Client.pdb
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\bin\AjaxControlToolkit.dll
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\bin\BAL.dll
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\bin\CDAL.dll
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\bin\DAL.dll
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\bin\DB_Utility.dll
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\bin\BAL.pdb
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\bin\CDAL.pdb
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\bin\DAL.pdb
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\bin\DB_Utility.pdb
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\obj\Debug\Client.csproj.CopyComplete
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\obj\Debug\Client.dll
+F:\BACKUP\TSSFARMS-AC-DEMO-2022-DEC\20-Jun-22- Forex -SET 1 new\Client\obj\Debug\Client.pdb
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\bin\Client.dll.config
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\bin\Client.dll
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\bin\Client.pdb
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\bin\AjaxControlToolkit.dll
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\bin\BAL.dll
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\bin\CDAL.dll
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\bin\DAL.dll
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\bin\DB_Utility.dll
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\bin\BAL.pdb
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\bin\CDAL.pdb
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\bin\DAL.pdb
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\bin\DB_Utility.pdb
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\obj\Debug\Client.csproj.CopyComplete
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\obj\Debug\Client.dll
+E:\Vinay Sir\TSS AC After Nagaraj Correction\TSS AC\20-Jun-22- Forex -SET 1 new\20-Jun-22- Forex -SET 1 new\Client\obj\Debug\Client.pdb
+F:\Forex\15-Jun-24-Biling\Client\bin\Client.dll.config
+F:\Forex\15-Jun-24-Biling\Client\bin\Client.dll
+F:\Forex\15-Jun-24-Biling\Client\bin\Client.pdb
+F:\Forex\15-Jun-24-Biling\Client\bin\AjaxControlToolkit.dll
+F:\Forex\15-Jun-24-Biling\Client\bin\BAL.dll
+F:\Forex\15-Jun-24-Biling\Client\bin\CDAL.dll
+F:\Forex\15-Jun-24-Biling\Client\bin\DAL.dll
+F:\Forex\15-Jun-24-Biling\Client\bin\DB_Utility.dll
+F:\Forex\15-Jun-24-Biling\Client\bin\BAL.pdb
+F:\Forex\15-Jun-24-Biling\Client\bin\CDAL.pdb
+F:\Forex\15-Jun-24-Biling\Client\bin\DAL.pdb
+F:\Forex\15-Jun-24-Biling\Client\bin\DB_Utility.pdb
+F:\Forex\15-Jun-24-Biling\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+F:\Forex\15-Jun-24-Biling\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\Forex\15-Jun-24-Biling\Client\obj\Debug\Client.csproj.Up2Date
+F:\Forex\15-Jun-24-Biling\Client\obj\Debug\Client.dll
+F:\Forex\15-Jun-24-Biling\Client\obj\Debug\Client.pdb
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\Client.dll.config
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\Client.dll
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\Client.pdb
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\AjaxControlToolkit.dll
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\BAL.dll
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\CDAL.dll
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\DAL.dll
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\DB_Utility.dll
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\BAL.pdb
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\CDAL.pdb
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\DAL.pdb
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\DB_Utility.pdb
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\obj\Debug\Client.dll
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\obj\Debug\Client.pdb

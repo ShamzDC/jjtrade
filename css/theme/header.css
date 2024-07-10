@@ -1,0 +1,191 @@
+
+        header.primary {
+            background-color: #fff;
+            min-height: 30px;
+            border-bottom: 1px solid #E5E5E5;
+            padding: 6px 0px;
+        }
+
+        header.primary ul {
+            margin-bottom: 0;
+        }
+
+        header.primary ul.social-icons li {
+            font-size: 14px;
+            color: #474747;
+        }
+
+        header.primary ul.contact-support li {
+            color: #999;
+            font-size: 13px;
+        }
+
+        header.secondary .navbar {
+            margin-bottom: 0;
+            background-color: #fff;
+            border-top: 0;
+            min-height: 98px;
+            transition: 0.5s all ease-in-out;
+        }
+        
+          header.secondary  .navbar-default .navbar-toggle{
+        border-color: #e01b22;
+    }
+
+
+        header.secondary .navbar-brand {
+            position: relative;
+            z-index: 11;
+            padding: 0;
+        }
+
+        header.secondary .navbar-brand img {
+            background: #fff;
+            padding: 16px 10px;
+            border-radius: 15px;
+        }
+
+        header.secondary .navbar-collapse {
+            padding: 15px 0px;
+        }
+
+        header.secondary ul.navbar-nav li.dropdown .dropdown-menu {
+            border-top: 3px solid rgb(224, 27, 34);
+            width: 100%;
+        }
+
+        header.secondary .navbar-default .navbar-nav>li>a {
+            color: #e21a2b
+        }
+
+        header.secondary .navbar-fixed-top {
+            box-shadow: -1px 1px 4px 0px rgb(0 0 0 / 40%);
+            /* min-height: 65px; */
+        }
+
+        /* header.secondary .navbar-fixed-top .navbar-brand img {
+            width: 90px;
+            transition: width 0.2s ease-in;
+        }
+
+        header.secondary .navbar-fixed-top .navbar-collapse {
+            padding: 5px 0px;
+        }  */
+
+        header.secondary .cart .itemcount {
+            font-size: 16px;
+            font-weight: bold;
+            vertical-align: bottom
+        }
+
+        .btn-no-appearance {
+            border: 0;
+            padding: 0;
+            margin: 0;
+            background: none;
+        }
+
+        .account-container {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            display: flex;
+        }
+
+        .brand-logo-mobile-container {
+            background-color: #fff;
+            border-bottom: 1px solid #E5E5E5;
+        }
+        .brand-logo-mobile-container img {
+            margin: auto;
+        }
+
+
+        @media only screen and (max-width: 990px) and (min-width: 768px) {
+            .navbar-default .navbar-toggle {
+                border-color: #e01b22;
+            }
+
+            .navbar-default .navbar-toggle .icon-bar {
+                background-color: #e01b22;
+            }
+
+            .navbar-default .navbar-toggle {
+                margin-top: 20px;
+            }
+
+            header.secondary .navbar-collapse {
+                padding: 15px;
+                margin-top: 50px;
+            }
+
+            .account-container {
+                top: 5px;
+            }
+
+            header.secondary .navbar-brand img {
+                width: 100px;
+            }
+
+            header.secondary .navbar {
+                min-height: 75px;
+            }
+
+            .navbar-nav .open .dropdown-menu.dropdown-mobile {
+                position: absolute;
+                background: white;
+            }
+        }
+
+
+
+        @media only screen and (max-width: 767px) and (min-width: 480px) {
+            .account-container {
+                top: 0px;
+                margin: 0;
+            }
+
+
+            header.secondary .navbar {
+                min-height: 58px;
+            }
+
+            header.secondary .navbar-collapse {
+                padding: 15px;
+            }
+
+            .navbar-default .navbar-toggle {
+                margin-left: 12px;
+                margin-top: 12px;
+            }
+
+            .navbar-nav .open .dropdown-menu.dropdown-mobile {
+                position: absolute;
+                background: white;
+            }
+        }
+
+        @media(max-width:480px) {
+            .navbar-default .navbar-toggle {
+                margin-left: 12px;
+    margin-top: 12px;
+            }
+
+            header.secondary .navbar-collapse {
+                padding: 15px;
+            }
+
+            .account-container {
+               top: 0px;
+    margin: 0;
+            }
+
+            header.secondary .navbar {
+                min-height: 58px;
+            }
+
+            .navbar-nav .open .dropdown-menu.dropdown-mobile {
+                position: absolute;
+                background: white;
+            }
+        }

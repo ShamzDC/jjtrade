@@ -1,0 +1,90 @@
+
+   /*drag-slider*/
+
+:root {
+  --gap: 12px;
+}
+
+.drag-slider img,
+.drag-slider video {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.drag-slider svg 
+{
+    width:60px;
+}
+
+.drag-slider-container {
+  position: relative;
+  width: 100%;
+}
+
+.drag-slider {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  width: 100%;
+  height: auto;
+  padding: 1rem 0;
+  margin: 2.5rem 0;
+  cursor: default;
+  overflow: scroll hidden;
+  -ms-scroll-snap-type: x mandatory;
+  scroll-snap-type: x mandatory;
+  scroll-padding: 0px 1.25rem;
+  scrollbar-width: none;
+}
+.drag-slider::-webkit-scrollbar {
+  display: none;
+}
+.drag-slider:not(.while-dragging) {
+  scroll-behavior: smooth;
+}
+.drag-slider.while-dragging {
+  cursor: grab;
+  cursor: -webkit-grab;
+}
+.drag-slider .item {
+  width: auto;
+  height: auto;
+  flex: 0 0 auto;
+  margin: 0 var(--gap, 1rem);
+  border: none;
+  outline: none;
+  /*border-radius: 0.25rem;*/
+      border: 1px solid #000;
+    padding: 12px 15px;
+    border-radius: 50%;
+  color: #252a32;
+  background: #ffffff;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.scroll-overlay {
+  content: "";
+  position: absolute;
+  top:0;
+  bottom: 0;
+  width: 70px;
+  z-index: 5;
+  pointer-events: none;
+  transition: opacity 200ms ease;
+}
+.scroll-overlay.left {
+  left: 0;
+  opacity: 0;
+  background-image: linear-gradient(to right, white, rgba(255, 255, 255, 0));
+}
+.scroll-overlay.right 
+{
+    opacity:1;
+  right: 0;
+  background-image: linear-gradient(to left, white, rgba(255, 255, 255, 0));
+}

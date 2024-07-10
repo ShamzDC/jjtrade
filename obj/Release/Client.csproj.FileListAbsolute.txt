@@ -1,0 +1,17 @@
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\Client.dll.config
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\Client.dll
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\Client.pdb
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\AjaxControlToolkit.dll
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\BAL.dll
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\CDAL.dll
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\DAL.dll
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\DB_Utility.dll
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\BAL.pdb
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\CDAL.pdb
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\DAL.pdb
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\bin\DB_Utility.pdb
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\obj\Release\Client.csproj.AssemblyReference.cache
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\obj\Release\Client.csproj.Up2Date
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\obj\Release\Client.dll
+C:\Users\jayan\OneDrive\Documentos\Jayanthi\15-Jun-24-Biling\Client\obj\Release\Client.pdb
